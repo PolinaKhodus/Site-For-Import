@@ -11,3 +11,4 @@ DS_Store
 /img/*.db
 
 /tmp
+/*.html_old
