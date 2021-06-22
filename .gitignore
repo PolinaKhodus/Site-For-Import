@@ -1,8 +1,7 @@
 
-*_old
-*.png_backup
-*.html_old
-Thumbs.db
+
+/Thumbs.db
 DS_Store
-
-
+/img/*.png_backup
+/img/*.db
+/tmp
