@@ -1,4 +1,5 @@
 DS_Store
-*.png_backup
-*.db
+/*.png_backup
+/*.db
 tmp
+/*.html_old
