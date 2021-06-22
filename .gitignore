@@ -1,7 +1,7 @@
 
 
-/Thumbs.db
+
 DS_Store
-/img/*.png_backup
-/img/*.db
-/tmp
+*.png_backup
+*.db
+tmp
